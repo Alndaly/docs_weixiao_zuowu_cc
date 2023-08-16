@@ -8,7 +8,7 @@ hero:
   tagline: 活在蔚蓝而自由的天空之下！
   image:
     src: /images/qr_code.png
-    alt: VitePress
+    alt: qr_code
   actions:
     - theme: brand
       text: 使用文档
