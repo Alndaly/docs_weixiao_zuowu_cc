@@ -7,7 +7,7 @@ hero:
   text: "大学生的一站式社区"
   tagline: 活在蔚蓝而自由的天空之下！
   image:
-    src: /static/images/qr_code.png
+    src: /images/qr_code.png
     alt: VitePress
   actions:
     - theme: brand

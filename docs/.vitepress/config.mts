@@ -11,7 +11,7 @@ export default defineConfig({
       provider: 'local'
     },
     // https://vitepress.dev/reference/default-theme-config
-    logo: './static/images/qr_code.png',
+    logo: './images/qr_code.png',
     nav: [
       { text: '首页', link: '/' },
       { text: '加入我们', link: '/team' },
