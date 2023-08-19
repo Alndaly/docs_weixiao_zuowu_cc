@@ -81,14 +81,6 @@
   --vp-custom-block-tip-bg: var(--vp-c-brand-dimm);
 }
 
-/**
- * Component: Algolia
- * -------------------------------------------------------------------------- */
-
-.DocSearch {
-  --docsearch-primary-color: var(--vp-c-brand) !important;
-}
-
 .image-src{
   border-radius: 10px;
 }

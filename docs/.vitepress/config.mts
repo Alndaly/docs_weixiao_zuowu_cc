@@ -14,7 +14,7 @@ export default defineConfig({
     logo: './images/qr_code.png',
     nav: [
       { text: '首页', link: '/' },
-      { text: '加入我们', link: '/team' },
+      { text: '加入我们', link: '/join-us' },
     ],
 
     sidebar: [
@@ -41,14 +41,30 @@ export default defineConfig({
             text: '用户',
             link: '/document/user'
           },
+          {
+            text: '一周CP',
+            link: '/document/cp'
+          },
+          {
+            text: '选课评价',
+            link: '/document/course'
+          },
+          {
+            text: '私聊',
+            link: '/document/chat'
+          },
         ]
       },
       {
-        text: '功能日志',
+        text: '更新日志',
         items: [
           {
-            text: '2023-08-12',
-            link: '/changelog/2023-08-12'
+            text: '日志全览',
+            link: '/changelog/index'
+          },
+          {
+            text: '2023-08-19',
+            link: '/changelog/2023-08-19'
           }
         ]
       },
@@ -64,14 +80,18 @@ export default defineConfig({
         link: '/develop'
       },
       {
-        text: '加入我们',
+        text: '团队',
         link: '/team'
+      },
+      {
+        text: '加入我们',
+        link: '/join-us'
       },
     ],
 
-    // socialLinks: [
-    //   { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    // ],
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/Alndaly/docs_weixiao_zuowu_cc' }
+    ],
 
     footer: {
       copyright: 'Copyright © 2023 作吾科技（杭州）有限责任公司',
