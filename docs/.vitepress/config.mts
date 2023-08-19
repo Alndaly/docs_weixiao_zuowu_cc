@@ -48,8 +48,15 @@ export default defineConfig({
         items: [
           {
             text: '2023-08-12',
-            link: '/changelog/2023-08-12.md'
+            link: '/changelog/2023-08-12'
           }
+        ]
+      },
+      {
+        text: '协议',
+        items: [
+          { text: '隐私协议', link: '/protocol/privacy' },
+          { text: '社区公约', link: '/protocol/community' }
         ]
       },
       {
