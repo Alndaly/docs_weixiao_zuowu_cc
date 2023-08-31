@@ -63,8 +63,12 @@ export default defineConfig({
             link: '/changelog/index'
           },
           {
-            text: '2023-08-19',
-            link: '/changelog/2023-08-19'
+            text: '1.19.0',
+            link: '/changelog/1.19.0'
+          },
+          {
+            text: '1.20.0',
+            link: '/changelog/1.20.0'
           }
         ]
       },

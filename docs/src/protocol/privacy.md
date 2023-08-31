@@ -56,7 +56,7 @@
 
 亦可通过公众号联系我们：
 
-![](https://upload.sunrise-luckyda.top/image/202306102344040.jpg)
+![](https://oss.weixiao.zuowu.cc/image/202306102344040.jpg)
 
 3. 与第三方共享信息
 

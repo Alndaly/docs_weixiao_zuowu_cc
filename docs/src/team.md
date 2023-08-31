@@ -10,7 +10,7 @@ import {
 
 const members = [
   {
-    avatar: 'https://upload.sunrise-luckyda.top/image/76b592c87157493aaf4471b1cd313328.jpeg',
+    avatar: 'https://oss.weixiao.zuowu.cc/image/76b592c87157493aaf4471b1cd313328.jpeg',
     name: '华勤达',
     title: 'Creator & Developer & Designer',
     links: [
@@ -18,7 +18,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://upload.sunrise-luckyda.top/image/76b592c87157493aaf4471b1cd313328.jpeg',
+    avatar: 'https://oss.weixiao.zuowu.cc/image/76b592c87157493aaf4471b1cd313328.jpeg',
     name: '许逸非',
     title: 'Creator & Designer',
     links: [

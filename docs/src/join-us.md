@@ -2,7 +2,7 @@
 
 下图是我们的公众号，可以联系该公众号。
 
-![](https://upload.sunrise-luckyda.top/image/202306102344040.jpg)
+![](https://oss.weixiao.zuowu.cc/image/202306102344040.jpg)
 
 也可直接联系我。
 
