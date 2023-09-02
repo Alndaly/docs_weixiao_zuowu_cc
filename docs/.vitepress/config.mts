@@ -91,6 +91,10 @@ export default defineConfig({
         text: '加入我们',
         link: '/join-us'
       },
+      {
+        text: '新功能规划',
+        link: '/todo'
+      },
     ],
 
     socialLinks: [
