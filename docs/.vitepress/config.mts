@@ -69,6 +69,10 @@ export default defineConfig({
           {
             text: '1.20.0',
             link: '/changelog/1.20.0'
+          },
+          {
+            text: '1.21.0',
+            link: '/changelog/1.21.0'
           }
         ]
       },
@@ -98,7 +102,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Alndaly/docs_weixiao_zuowu_cc' }
+      { icon: 'github', link: 'https://github.com/Alndaly/docs_weixiao_zuowu_cc' },
+      { icon: 'discord', link: 'https://discord.gg/4Ng8QAbb82' }
     ],
 
     footer: {
