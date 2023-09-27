@@ -73,6 +73,10 @@ export default defineConfig({
           {
             text: '1.21.0',
             link: '/changelog/1.21.0'
+          },
+          {
+            text: '1.21.2',
+            link: '/changelog/1.21.2'
           }
         ]
       },
