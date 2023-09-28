@@ -57,11 +57,8 @@ export default defineConfig({
       },
       {
         text: '更新日志',
+        link: '/changelog/index',
         items: [
-          {
-            text: '日志全览',
-            link: '/changelog/index'
-          },
           {
             text: '1.19.0',
             link: '/changelog/1.19.0'
